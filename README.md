@@ -7,3 +7,5 @@ Content for various speaking engagements I have been part of will be posted here
 - [India Police Hackathon](https://ksp.gov.in/hackathon/)
 
 - [Tensorflow World Extended Bangalore](https://www.eventbrite.com/e/tensorflow-world-extended-bangalore-tickets-82022901707)
+
+- [Applied Singularity](https://www.meetup.com/AppliedSingularity/events/266996091/)
