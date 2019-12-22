@@ -11,3 +11,5 @@ Content for various speaking engagements I have been part of will be posted here
 - [Applied Singularity](https://www.meetup.com/AppliedSingularity/events/266996091/)
 
 - [ODSC Bangalore](https://www.meetup.com/Bengaluru-Data-Science-ODSC/events/266940892/)
+
+- [Mantissa Data Science Meetups](http://mantissadatascience.mystrikingly.com/)
