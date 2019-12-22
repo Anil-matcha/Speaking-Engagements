@@ -1,5 +1,19 @@
 # Introduction to Deep Learning and Computer Vision
 
+Computer vision engineer at Samsung R&D buliding optimized models for providing intelligence to mobile devices
+
+**Usecases** :- Gallery object search, human object interaction, live segmentation, scene recognition
+
+[![img](https://camo.githubusercontent.com/9389472d239c0d04dca439ab87294942f4165f3e/68747470733a2f2f7777772e616e616c7974696373696e73696768742e6e65742f77702d636f6e74656e742f75706c6f6164732f323031392f30372f436f6d70757465722d566973696f6e2d4675747572652d31303234783638322e6a7067)](https://camo.githubusercontent.com/9389472d239c0d04dca439ab87294942f4165f3e/68747470733a2f2f7777772e616e616c7974696373696e73696768742e6e65742f77702d636f6e74656e742f75706c6f6164732f323031392f30372f436f6d70757465722d566973696f6e2d4675747572652d31303234783638322e6a7067)
+
+Reach me out at Linkedin https://in.linkedin.com/in/anilmatcha
+
+I run a telegram group for computer vision professionals http://t.me/ComputerVisiongroup
+
+# 
+
+
+
 Learning paths today
 
 1. Classical Machine Learning
