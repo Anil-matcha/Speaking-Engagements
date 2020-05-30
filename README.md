@@ -13,3 +13,5 @@ Content for various speaking engagements I have been part of will be posted here
 - [ODSC Bangalore](https://www.meetup.com/Bengaluru-Data-Science-ODSC/events/266940892/)
 
 - [Mantissa Data Science Meetups](http://mantissadatascience.mystrikingly.com/)
+
+- [TFUG Mysuru](https://www.meetup.com/en-AU/TFUG-Mysuru/events/270433421/)
