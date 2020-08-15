@@ -14,4 +14,8 @@ Content for various speaking engagements I have been part of will be posted here
 
 - [Mantissa Data Science Meetups](http://mantissadatascience.mystrikingly.com/)
 
-- [TFUG Mysuru-GDB Bangalore-Co learning lounge-Applied Singularity](https://www.meetup.com/en-AU/TFUG-Mysuru/events/270433421/)
+- [TFUG Mysuru-GDB Bangalore-Co learning lounge-Applied Singularity](https://www.meetup.com/en-AU/TFUG-Mysuru/events/270433421/) ([Video link](https://www.youtube.com/watch?v=A7KlDeAn8Iw))
+
+- [Intro to NLP](https://www.boardinfinity.com/webinars/introduction-to-natural-language-processing)
+
+- [Intro to Deep Learning](https://www.boardinfinity.com/webinars/introduction-to-deep-learning)
