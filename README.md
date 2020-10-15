@@ -19,3 +19,5 @@ Content for various speaking engagements I have been part of will be posted here
 - [Intro to NLP](https://www.boardinfinity.com/webinars/introduction-to-natural-language-processing)
 
 - [Intro to Deep Learning](https://www.boardinfinity.com/webinars/introduction-to-deep-learning)
+
+- [A comprehensive review of Super Resolution - Kaggle Days Meetup Surat](https://www.linkedin.com/company/e-meetups/) ([Video Link](https://www.youtube.com/watch?v=GrffeA85fcc))
