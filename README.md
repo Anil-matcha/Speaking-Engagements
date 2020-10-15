@@ -21,3 +21,5 @@ Content for various speaking engagements I have been part of will be posted here
 - [Intro to Deep Learning](https://www.boardinfinity.com/webinars/introduction-to-deep-learning)
 
 - [A comprehensive review of Super Resolution - Kaggle Days Meetup Surat](https://www.linkedin.com/company/e-meetups/) ([Video Link](https://www.youtube.com/watch?v=GrffeA85fcc))
+
+- [A career in AI and ML, talks with coach by Board Infinity](https://www.instagram.com/p/CGVW6BrFutw/)
